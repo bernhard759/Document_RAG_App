@@ -19,10 +19,9 @@ This project is a **Retrieval-Augmented Generation (RAG) Web Application** for d
    pip install -r requirements.txt
    ```
 
-3. Set up environment variables in a `.env` file:
+3. Set up environment variable in a `.env` file:
    ```plaintext
    OPENAI_API_KEY=your_openai_api_key
-   ANTHROPIC_API_KEY=your_anthropic_api_key
    ```
 
 ## Usage
@@ -36,7 +35,7 @@ This project is a **Retrieval-Augmented Generation (RAG) Web Application** for d
 
 ## References
 
-For a deeper understanding of Retrieval-Augmented Generation (RAG) and building RAG applications, see these articles:
+For a deeper understanding of Retrieval-Augmented Generation (RAG) and building RAG applications, i consulted these two blogs:
 
 - [Build Your RAG Web Application with Streamlit](https://medium.com/@alb.formaggio/build-your-rag-web-application-with-streamlit-7673120a9741) by Alberto Formaggio
 - [What is Retrieval-Augmented Generation (RAG)?](https://medium.com/@drjulija/what-is-retrieval-augmented-generation-rag-938e4f6e03d1) by Dr. Julija
